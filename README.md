@@ -5,3 +5,4 @@
 * Кортежи  [Тыц  :point_left:](https://github.com/Dv-nn/USE-Python/blob/main/Кортежи_Python.pdf)
 * Функции  [Клац  :point_left:](https://github.com/Dv-nn/USE-Python/blob/main/Функции_Python.pdf)
 * Множества (set)  [Тыц  :point_left:](https://github.com/Dv-nn/USE-Python/blob/main/Множества_Python.pdf)
+* Исключения [Клац  :point_left:](https://github.com/Dv-nn/USE-Python/blob/main/Исключения_в_Python.pdf)
