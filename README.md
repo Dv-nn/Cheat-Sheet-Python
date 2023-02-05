@@ -7,4 +7,5 @@
 * Множества (set)  [Тыц  :point_left:](https://github.com/Dv-nn/USE-Python/blob/main/Множества_Python.pdf)
 * Исключения [Клац  :point_left:](https://github.com/Dv-nn/USE-Python/blob/main/Исключения_в_Python.pdf)  
 * Классы и Объекты [Тыц  :point_left:](https://github.com/Dv-nn/USE-Python/blob/main/Классы_и_Объекты_в_Python.pdf)  
-* venv [Клац  :point_left:](https://github.com/Dv-nn/USE-Python/blob/main/venv.pdf)   
+* Итераторы и Генераторы [Клац  :point_left:](https://github.com/Dv-nn/USE-Python/blob/main/Итераторы_и_Генераторы.pdf)  
+* venv [Тыц  :point_left:](https://github.com/Dv-nn/USE-Python/blob/main/venv.pdf)   
