@@ -1,4 +1,5 @@
 ## Шпаргалка Python  
+____
 * Строки [Клац  :point_left:](https://github.com/Dv-nn/USE-Python/blob/main/Строки_Python.pdf)   
 * Списки  [Клац  :point_left:](https://github.com/Dv-nn/USE-Python/blob/main/Списки_Python.pdf)  
 * Словари  [Клац  :point_left:](https://github.com/Dv-nn/USE-Python/blob/main/Словари_Python.pdf)
