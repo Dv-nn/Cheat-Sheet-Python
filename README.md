@@ -10,5 +10,7 @@ ____
 * Исключения [Клац  :point_left:](https://github.com/Dv-nn/USE-Python/blob/main/Исключения_в_Python.pdf)  
 * Классы и Объекты [Клац  :point_left:](https://github.com/Dv-nn/USE-Python/blob/main/Классы_и_Объекты_в_Python.pdf)  
 * Итераторы и Генераторы [Клац  :point_left:](https://github.com/Dv-nn/USE-Python/blob/main/Итераторы_и_Генераторы.pdf)  
-* venv [Клац  :point_left:](https://github.com/Dv-nn/USE-Python/blob/main/venv.pdf)   
+* venv [Клац  :point_left:](https://github.com/Dv-nn/USE-Python/blob/main/venv.pdf) 
+* Encoding [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/encoding.jpg) 
+
 
