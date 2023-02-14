@@ -12,6 +12,6 @@ ____
 * Итераторы и Генераторы [Клац  :point_left:](https://github.com/Dv-nn/USE-Python/blob/main/Итераторы_и_Генераторы.pdf)  
 * venv [Клац  :point_left:](https://github.com/Dv-nn/USE-Python/blob/main/venv.pdf) 
 * Encoding [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/encoding.jpg) 
-* Base Exception [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Base%20Exeption.png)   
+* Base Exception [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Base%20Exception.png)   
 
 
