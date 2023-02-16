@@ -18,5 +18,6 @@ ____
 * Параллелизм Python     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Параллелизм_в_Python.pdf)   
 * SOLID     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/SOLID.pdf)   
 * Git     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/git.pdf)   
+* curl     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/curl.pdf)   
 
 
