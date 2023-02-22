@@ -21,7 +21,9 @@ ____
 * curl     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/curl.pdf)  
 * Jinja     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Jinja2.pdf)  
 * cmd     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/edit/main/cmd)  
-* Power Shell    [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/power_shell.md) 
+* Power Shell    [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/power_shell.md)   
+* Pyside6    [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Pyside6.md)  
+
 
 
 
