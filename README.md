@@ -15,14 +15,16 @@ ____
 * Encoding     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/encoding.jpg) 
 * Base Exception     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Base%20Exception.png)   
 * ООП Python     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/ОOП_Python.pdf)   
-* Параллелизм Python     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Параллелизм_в_Python.pdf)   
+* Параллелизм Python     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Параллелизм_в_Python.pdf)  
+* Логирование  [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Логирование.md)   
 * SOLID     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/SOLID.pdf)   
 * Git     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/git.pdf)   
-* curl     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/curl.pdf)  
-* Jinja     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Jinja2.pdf)  
+* curl     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/curl.pdf)   
 * cmd     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/edit/main/cmd)  
 * Power Shell    [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/power_shell.md)   
-* Pyside6    [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Pyside6.md)  
+* Pyside6    [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Pyside6.md)
+* Jinja     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Jinja2.pdf)    
+
 
 
 
