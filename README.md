@@ -29,6 +29,6 @@ ____
 * Flask     [Клац  :point_left:]()
 * Jinja     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Jinja2.pdf)  
 * Pyside6    [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Pyside6.md)
-* Socket     [Клац  :point_left:]()
+
 
 
