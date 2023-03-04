@@ -22,14 +22,12 @@ ____
 * curl     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/curl.pdf)   
 * cmd     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/edit/main/cmd)  
 * Power Shell    [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/power_shell.md)   
-* Pyside6    [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Pyside6.md)
-* Jinja     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Jinja2.pdf)   
-* Django     [Клац  :point_left:]()
 * SOLID     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/SOLID.pdf)  
 * REST    [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/REST.md) 
 * Области видимости   [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Scope.md)   
-
-
-
+* Django     [Клац  :point_left:]()
+* Flask     [Клац  :point_left:]()
+* Jinja     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Jinja2.pdf)  
+* Pyside6    [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Pyside6.md)
 
 
