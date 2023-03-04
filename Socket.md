@@ -19,7 +19,6 @@ Socket - пара домен-порт через которые осуществ
 - .close()  
 
 ```
-python
 import socket
 
 #domain:5000
@@ -46,7 +45,6 @@ while True:
 ```
 
 ```
-python
 import socket
 
 #domain:5000
@@ -82,7 +80,7 @@ if __main__ == '__name__':
  - с помощью генераторов
  - с помощью async await
 
-```python
+```
 import socket
 
 #domain:5000
