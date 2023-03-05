@@ -14,7 +14,7 @@ ____
 * venv     [Клац  :point_left:](https://github.com/Dv-nn/USE-Python/blob/main/venv.pdf)  
 * Docstrings    [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/docstrings.md)    
 * Encoding     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/encoding.jpg) 
-* Base Exception     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Base%20Exception.png)   
+* Base Exception     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/tree/main/Base%20Exception)   
 * ООП Python     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/ОOП_Python.pdf)   
 * Параллелизм Python     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Параллелизм_в_Python.pdf)  
 * Логирование  [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Логирование.md)      
