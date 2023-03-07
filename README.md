@@ -30,7 +30,7 @@ ____
 * Jinja     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Jinja2.pdf)  
 * Pyside6    [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Pyside6.md)
 * Socket     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Socket.md)  
-* Socket     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Многопоточность%2C%20многопроцессорность%2C%20асинхронность%20.md)  
+* Многопоточность, многопроцессорность, асинхронность   [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Многопоточность%2C%20многопроцессорность%2C%20асинхронность%20.md)  
 * Структуры данных   [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Структуры%20данных/Структуры%20данных.md)  
 
 
