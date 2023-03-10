@@ -33,7 +33,8 @@ ____
 * Структуры данных   [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Структуры%20данных/Структуры%20данных.md)  
 * API   [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/API.md)  
 * SQL   [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/SQL.md) 
-* CI / CD    [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/CI%20_CD.md)
+* Docker   [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Docker.md)   
+* CI / CD    [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/CI%20_CD.md)  
 
 
 
