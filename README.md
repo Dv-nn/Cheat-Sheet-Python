@@ -25,15 +25,15 @@ ____
 * SOLID     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/SOLID.pdf)  
 * REST    [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/REST.md) 
 * Области видимости   [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Scope.md)   
-* Django     [Клац  :point_left:]()
-* Flask     [Клац  :point_left:]()
+* Django     [Клац  :point_left:]()  
 * Jinja     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Jinja2.pdf)  
 * Pyside6    [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Pyside6.md)
 * Socket     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Socket.md)  
 * Многопоточность, многопроцессорность, асинхронность   [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Многопоточность%2C%20многопроцессорность%2C%20асинхронность%20.md)  
 * Структуры данных   [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Структуры%20данных/Структуры%20данных.md)  
 * API   [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/API.md)  
-* SQL   [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/SQL.md)  
+* SQL   [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/SQL.md) 
+* CI / CD    [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/CI%20_CD.md)
 
 
 
