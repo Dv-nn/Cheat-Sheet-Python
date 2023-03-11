@@ -34,7 +34,8 @@ ____
 * API   [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/API.md)  
 * SQL   [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/SQL.md) 
 * Docker   [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Docker.md)   
-* CI / CD    [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/CI%20_CD.md)  
+* CI / CD    [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/CI%20_CD.md) 
+* Kubernetes  [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Kubernetes.md)   
 
 
 
