@@ -34,7 +34,7 @@ ____
 * Структуры данных   [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Структуры%20данных/Структуры%20данных.md)  
 * API   [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/API.md)  
 * SQL   [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/SQL.md) 
-* Docker   [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Docker.md)   
+* Docker   [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/tree/main/Docker)   
 * CI / CD    [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/CI%20_CD.md) 
 * Kubernetes  [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Kubernetes.md)  
 * Паттерны проектирования    [Клац  :point_left:]()    
