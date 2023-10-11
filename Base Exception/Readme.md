@@ -1,5 +1,5 @@
 ## BaseException  
- +-- SystemExit  
+ `+-- SystemExit  
  +-- KeyboardInterrupt  
  +-- GeneratorExit  
  +-- Exception  
@@ -61,7 +61,7 @@
            +-- ImportWarning  
            +-- UnicodeWarning  
            +-- BytesWarning  
-           +-- ResourceWarning  
+           +-- ResourceWarning ` 
  
  ______  
  
