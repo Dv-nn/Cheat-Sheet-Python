@@ -1,4 +1,7 @@
 ## BaseException  
+ 
+ ![Base Exception](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Base%20Exception/Base%20Exception.png)    
+ 
  +-- SystemExit    
  +-- KeyboardInterrupt    
  +-- GeneratorExit    
@@ -64,7 +67,6 @@
            +-- ResourceWarning  
  
  ______  
- 
- ![Base Exception](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Base%20Exception/Base%20Exception.png)  
+
  
  
