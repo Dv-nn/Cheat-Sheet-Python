@@ -1,4 +1,4 @@
-## Collections  
+## Модуль Collections  
 Модуль collections содержит специализированные классы контейнеров, альтернативных традиционным dict, list и tuple  
 ____  
 import collections  
