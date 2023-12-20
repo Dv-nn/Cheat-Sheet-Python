@@ -11,7 +11,7 @@ ____
 * Классы и Объекты     [Клац  :point_left:](https://github.com/Dv-nn/USE-Python/blob/main/Классы_и_Объекты_в_Python.pdf)  
 * Итераторы и Генераторы     [Клац  :point_left:](https://github.com/Dv-nn/USE-Python/blob/main/Итераторы_и_Генераторы.pdf)
 * Itertools  [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/ITERTOOLS.md)
-* Collections  [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/COLLECTIONS.md)
+* Модуль Collections  [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/COLLECTIONS.md)
 * Регулярные выражения     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/tree/main/Regexp)    
 * venv     [Клац  :point_left:](https://github.com/Dv-nn/USE-Python/blob/main/venv.pdf)  
 * Docstrings    [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/docstrings.md)    
