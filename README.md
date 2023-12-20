@@ -12,7 +12,7 @@ ____
 * Итераторы и Генераторы     [Клац  :point_left:](https://github.com/Dv-nn/USE-Python/blob/main/Итераторы_и_Генераторы.pdf)
 * Itertools  [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/ITERTOOLS.md)
 * Collections  [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/COLLECTIONS.md)
-* Regex     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Регулярные_выражения_Python.pdf)  
+* Регулярные выражения     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/tree/main/Regexp)    
 * venv     [Клац  :point_left:](https://github.com/Dv-nn/USE-Python/blob/main/venv.pdf)  
 * Docstrings    [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/docstrings.md)    
 * Encoding     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/encoding.jpg) 
