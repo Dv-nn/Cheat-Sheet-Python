@@ -64,7 +64,7 @@ ____
 [Документация](https://docs.python.org/3/library/re.html) - оригинальная документация    
 
 
-[egexlearn.com ](https://regexlearn.com) - изучите Regex шаг за шагом (можно включить русский язык)  
+[regexlearn.com](https://regexlearn.com) - изучите Regex шаг за шагом (можно включить русский язык)  
 
 
 [regex101.com](https://regex101.com/) - сайт, позволяющий тестировать регулярные выражения      
