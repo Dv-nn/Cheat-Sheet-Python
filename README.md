@@ -24,7 +24,7 @@ ____
 * curl     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/curl.pdf)   
 * cmd     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/edit/main/cmd)  
 * Power Shell    [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/power_shell.md)   
-* SOLID     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/SOLID.pdf)  
+* SOLID     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/SOLID/SOLID.md)  
 * REST    [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/REST.md) 
 * Области видимости   [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Scope.md)   
 * Jinja     [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Jinja2.pdf)  
