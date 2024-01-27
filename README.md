@@ -40,7 +40,7 @@ ____
 * CI / CD    [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/CI%20_CD.md) 
 * Kubernetes  [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Kubernetes.md)  
 * Паттерны проектирования    [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Pattern.md)
-* Fast API [Клац  :point_left:](https://github.com/Dv-nn/Cheat-Sheet-Python/blob/main/Fast%20API.md)         
+* Fast API [Клац  :point_left:](https://github.com/Dv-nn/Fast-API-Cheat-Sheet)         
 
 
 
